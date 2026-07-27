@@ -4,7 +4,7 @@
 
 Master of Data Science (Macquarie University). I like the full path from raw data to a dashboard someone can actually act on: cleaning and validating data, modelling it in SQL, and communicating what it means.
 
-📫 maheshsaikandula@gmail.com · [LinkedIn](https://www.linkedin.com/in/mahesh-kandula-b6393622a)
+📫 maheshsaikandula@gmail.com · [LinkedIn](https://www.linkedin.com/in/mahesh-kandula-b6393622a) · [My Portfolio Website](https://www.maheshsaikandula.com)
 
 ---
 
