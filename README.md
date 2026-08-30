@@ -10,7 +10,7 @@ Master of Data Science (Macquarie University). I like the full path from raw dat
 
 ## 🔧 Tools I work with
 
-`SQL` · `PostgreSQL` · `Python (pandas, NumPy)` · `Tableau` · `Excel` · `Git` · `Jupyter`
+`SQL` · `PostgreSQL` · `Python (pandas, NumPy)` · `Tableau` · `Power BI` · `Excel` · `Git` · `Jupyter`
 ETL · data cleaning & validation · data modelling · exploratory data analysis · dashboarding
 
 ---
@@ -28,6 +28,31 @@ An end-to-end payments analytics pipeline simulating a fintech data stack, built
 - Key finding: source-system risk tiers diverged from actual merchant behaviour — which is why I built a behaviour-based segmentation layer
 
 ➡️ [**View the project**](https://github.com/MSkandula/PAYscope) · 📈 [Live dashboards on Tableau Public](https://public.tableau.com/app/profile/mahesh.sai.kandula7753/viz/Transaction_monitoring/Dashboard3?publish=yes)
+
+## 📦 Featured project — E-Commerce Delivery & Retention Review
+
+**Marketplace delivery & retention analysis** · `PostgreSQL` `SQL` `Python` `Power BI`
+
+End-to-end analysis of a 100K-order marketplace ($13.6M revenue, 9 relational tables), taken
+through Excel → Python → SQL → Power BI — each tool brought in because the previous one hit
+a real limit, not chosen up front.
+
+- Modelled **9 relational tables** (99,441 orders, 3,095 sellers, 71 categories) into
+  PostgreSQL and independently reproduced all **6 business analyses** in both pandas and
+  SQL, catching and correcting **2 methodology errors** (a revenue-denominator bug, a naive
+  freight-ratio calculation) before either reached a dashboard
+- Found that orders delivered 4+ days late score **1.85/5** vs. **4.29/5** for early
+  orders, and that the delay clusters in a handful of states (up to **3.5x** the national
+  rate) — connecting a low **3.12%** repeat-purchase rate to a specific, fixable delivery
+  problem rather than a diffuse one
+- Built a 3-page **Power BI** dashboard on a star-schema model with **15+ validated DAX
+  measures**, each checked against its Python and SQL equivalent
+- Documented a full decision log and self-correction trail — treating catching your own
+  errors as part of the deliverable, not something to hide
+
+➡️ [**View the project**](https://github.com/MSkandula/ecommerce-delivery-retention-review)
+
+## 🗂️ Other projects
 
 | Project | What it does | Stack |
 |---|---|---|
