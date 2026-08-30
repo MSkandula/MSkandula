@@ -1,10 +1,10 @@
-# Hi, I'm Mahesh 👋
+# Hi, I'm Mahesh 
 
 **Data Analyst** based in Sydney — I work in **SQL · PostgreSQL · Python · Tableau** to turn messy, large-scale data into trustworthy, decision-ready insight.
 
 Master of Data Science (Macquarie University). I like the full path from raw data to a dashboard someone can actually act on: cleaning and validating data, modelling it in SQL, and communicating what it means.
 
-📫 maheshsaikandula@gmail.com · [LinkedIn](https://www.linkedin.com/in/mahesh-kandula-b6393622a) · [My Portfolio Website](https://www.maheshsaikandula.com)
+maheshsaikandula@gmail.com · [LinkedIn](https://www.linkedin.com/in/mahesh-kandula-b6393622a) · [My Portfolio Website](https://www.maheshsaikandula.com)
 
 ---
 
@@ -15,7 +15,7 @@ ETL · data cleaning & validation · data modelling · exploratory data analysis
 
 ---
 
-## 📊 Featured project — PayScope
+## Featured project — PayScope
 
 **Digital Payments Risk & Merchant Analytics Platform** · `PostgreSQL` `SQL` `Python` `Tableau`
 
@@ -29,7 +29,7 @@ An end-to-end payments analytics pipeline simulating a fintech data stack, built
 
 ➡️ [**View the project**](https://github.com/MSkandula/PAYscope) · 📈 [Live dashboards on Tableau Public](https://public.tableau.com/app/profile/mahesh.sai.kandula7753/viz/Transaction_monitoring/Dashboard3?publish=yes)
 
-## 📦 Featured project — E-Commerce Delivery & Retention Review
+## E-Commerce Delivery & Retention Review
 
 **Marketplace delivery & retention analysis** · `PostgreSQL` `SQL` `Python` `Power BI`
 
