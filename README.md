@@ -253,18 +253,6 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:2c5364&height=3&section=header" width="100%" alt=""/>
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MSkandula&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=FF694B&currStreakLabel=38BDF8" alt="GitHub streak stats" width="70%"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSkandula&bg_color=0D1117&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:2c5364&height=3&section=header" width="100%" alt=""/>
-
 ## 🎓 Education & certifications
 
 <table>
